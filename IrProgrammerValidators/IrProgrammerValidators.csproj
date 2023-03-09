@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>Ir Programmer Validators</Title>
+    <Authors>IR Programmer</Authors>
+    <Description>Some Validators For Asp.net Core Models
+Example : Set Property As Require If Other bool Property Is True Or Set Property Is Required If Other Property Has Specific Value</Description>
+  </PropertyGroup>
+
+</Project>
