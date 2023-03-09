@@ -1,5 +1,4 @@
 # New Validator For Asp.Net Core Models
-____
 
 This Package Create Some Validators To Easily Validate View Models And Dtos In Asp.Net Core Applications 
 
