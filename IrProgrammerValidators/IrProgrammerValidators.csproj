@@ -8,6 +8,23 @@
     <Authors>IR Programmer</Authors>
     <Description>Some Validators For Asp.net Core Models
 Example : Set Property As Require If Other bool Property Is True Or Set Property Is Required If Other Property Has Specific Value</Description>
+    <PackageProjectUrl>https://github.com/irprogramer/IR-Programmer-Validators</PackageProjectUrl>
+    <PackageReadmeFile>ReadMe.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/irprogramer/IR-Programmer-Validators</RepositoryUrl>
+    <PackageTags>Check Enum;Require If Other Property Is True;Validator;Model Validator</PackageTags>
+    <AnalysisLevel>5.0</AnalysisLevel>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\ReadMe.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+	<PropertyGroup>
+		<PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+	</PropertyGroup>
 
 </Project>
